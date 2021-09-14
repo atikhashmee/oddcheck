@@ -1,1 +1,2 @@
 # oddcheck
+npm install oddcheck
