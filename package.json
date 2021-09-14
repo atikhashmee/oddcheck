@@ -1,0 +1,26 @@
+{
+  "name": "oddcheck",
+  "version": "1.0.0",
+  "description": "check number for odd",
+  "keywords": [
+    "example",
+    "package",
+    "tutorial"
+  ],
+  "homepage": "https://github.com/atikhashmee/oddcheck",
+  "bugs": {
+    "url": "https://github.com/atikhashmee/oddcheck/issues",
+    "email": "mdatik_feni@yahoo.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atikhashmee/oddcheck.git"
+  },
+  "author": "Joe Bloggs <mdatik_feni@yahoo.com> (your-website.com)",
+  "license": "MIT",
+  "private": false
+}
